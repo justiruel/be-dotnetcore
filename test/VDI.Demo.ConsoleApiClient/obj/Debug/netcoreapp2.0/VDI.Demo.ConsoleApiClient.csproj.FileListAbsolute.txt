@@ -1,0 +1,15 @@
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\bin\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.deps.json
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\bin\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.runtimeconfig.json
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\bin\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.runtimeconfig.dev.json
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\bin\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.dll
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\bin\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.pdb
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\bin\Debug\netcoreapp2.0\VDI.Demo.Application.Shared.dll
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\bin\Debug\netcoreapp2.0\VDI.Demo.Core.Shared.dll
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\bin\Debug\netcoreapp2.0\VDI.Demo.Application.Shared.pdb
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\bin\Debug\netcoreapp2.0\VDI.Demo.Core.Shared.pdb
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\obj\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.csprojResolveAssemblyReference.cache
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\obj\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.csproj.CoreCompileInputs.cache
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\obj\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.AssemblyInfoInputs.cache
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\obj\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.AssemblyInfo.cs
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\obj\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.dll
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\test\VDI.Demo.ConsoleApiClient\obj\Debug\netcoreapp2.0\VDI.Demo.ConsoleApiClient.pdb

@@ -1,0 +1,17 @@
+C:\Users\muhammad\be-dotnetcore\src\VDI.Demo.Core.Shared\bin\Debug\netstandard2.0\VDI.Demo.Core.Shared.deps.json
+C:\Users\muhammad\be-dotnetcore\src\VDI.Demo.Core.Shared\bin\Debug\netstandard2.0\VDI.Demo.Core.Shared.dll
+C:\Users\muhammad\be-dotnetcore\src\VDI.Demo.Core.Shared\bin\Debug\netstandard2.0\VDI.Demo.Core.Shared.pdb
+C:\Users\muhammad\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.AssemblyInfoInputs.cache
+C:\Users\muhammad\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.AssemblyInfo.cs
+C:\Users\muhammad\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.dll
+C:\Users\muhammad\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.pdb
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\src\VDI.Demo.Core.Shared\bin\Debug\netstandard2.0\VDI.Demo.Core.Shared.deps.json
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\src\VDI.Demo.Core.Shared\bin\Debug\netstandard2.0\VDI.Demo.Core.Shared.dll
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\src\VDI.Demo.Core.Shared\bin\Debug\netstandard2.0\VDI.Demo.Core.Shared.pdb
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.csprojResolveAssemblyReference.cache
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.csproj.CoreCompileInputs.cache
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.AssemblyInfoInputs.cache
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.AssemblyInfo.cs
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.dll
+D:\PROJECT\RISET\aspnetboilerplate\be-dotnetcore\src\VDI.Demo.Core.Shared\obj\Debug\netstandard2.0\VDI.Demo.Core.Shared.pdb
